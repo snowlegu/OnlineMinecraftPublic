@@ -1,0 +1,11 @@
+Yamazaki Syndicate — Binary Distribution Terms
+
+This public repository contains compiled binary distributions only.
+
+You may download and use the appropriate JAR for personal use on a compatible
+Minecraft installation. The source code, reverse engineering, decompilation,
+modification, re-uploading and redistribution of these binaries are not
+permitted without written permission from Yamazaki Syndicate.
+
+The files are provided as-is, without warranty. These terms do not grant any
+rights to the private source repository.
